@@ -1,4 +1,4 @@
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -11,13 +11,12 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
 
-### 🚀 Easy Access to My Repositories
+## 🚀 Easy Access to My Repositories
 
 ![divider](https://user-images.githubusercontent.com/74038190/212476345-e13058d2-6b72-4b56-bbe7-4b3a16dc3b34.gif)
 
 <pre>
-Epicode:
-
+###Epicode:
     🎯 Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Networking.git">Fundamentals of Ethical Hacking Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
