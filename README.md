@@ -9,16 +9,16 @@
 
 # 🚀 Easy Access to My Repositories
 <pre>
- 🎓 Epicode:
-  🛠️ Fundamentals
+🎓Epicode:
+ 🛠️ Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Networking.git">Fundamentals of Ethical Hacking Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
         - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Fundamentals of Ethical Hacking Operating System</a>
-  🔥 Penetration Test
+ 🔥 Penetration Test
         - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
         - 🏹 <a href="https://github.com/Gigidotexe/PT_The_Exploit_phase.git">The Exploit Phase</a>
         - 📌 <a href="https://github.com/Gigidotexe/PT_with_Metasploit.git">Pentesting with Metasploit</a>
-  🛡️ Remediation & Mitigation
+ 🛡️ Remediation & Mitigation
         - 🔬 <a href="https://github.com/Gigidotexe/Fundamentals_of_Malware_Analysis.git">Fundamentals of Malware Analysis</a>
         - 📊 <a href="https://github.com/Gigidotexe/Splunk_e_Windows_Server.git">Splunk & Windows Server</a>
         - 🛑 <a href="https://github.com/Gigidotexe/Remediation_e_Mitigation.git">Remediation & Mitigation</a>
