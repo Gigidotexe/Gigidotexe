@@ -8,7 +8,7 @@
 <br/>
 
 # 🚀 Easy Access to My Repositories
-#🎓Epicode:
+🎓Epicode:
 
 <pre>
  🛠️ Fundamentals
