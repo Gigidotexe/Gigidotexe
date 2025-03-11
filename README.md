@@ -12,8 +12,6 @@
 <br/>
 
 ## 🚀 Easy Access to My Repositories
-![divider](https://user-images.githubusercontent.com/74038190/212476345-e13058d2-6b72-4b56-bbe7-4b3a16dc3b34.gif)
-
 <pre>
 Epicode:
     🎯 Fundamentals
