@@ -9,7 +9,7 @@
 
 # 🚀 Easy Access to My Repositories
 <pre>
-<h4>🎓Epicode:</h4>
+<h2>🎓Epicode:</h2>
  🛠️ Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Networking.git">Fundamentals of Ethical Hacking Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
