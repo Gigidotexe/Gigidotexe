@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🚀 Easy Access to My Repositories
 
-<!--
-**Gigidotexe/Gigidotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![divider](https://user-images.githubusercontent.com/74038190/212476345-e13058d2-6b72-4b56-bbe7-4b3a16dc3b34.gif)
 
-Here are some ideas to get you started:
+<pre>
+Epicode:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎯 Fundamentals
+        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Networking.git">Fundamentals of Ethical Hacking Networking</a>
+        - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
+        - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Fundamentals of Ethical Hacking Operating System</a>
+
+    🔥 Penetration Test
+        - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
+        - 🏹 <a href="https://github.com/Gigidotexe/PT_The_Exploit_phase.git">The Exploit Phase</a>
+        - 📌 <a href="https://github.com/Gigidotexe/PT_with_Metasploit.git">Pentesting with Metasploit</a>
+
+    🛡️ Remediation & Mitigation
+        - 🔬 <a href="https://github.com/Gigidotexe/Fundamentals_of_Malware_Analysis.git">Fundamentals of Malware Analysis</a>
+        - 📊 <a href="https://github.com/Gigidotexe/Splunk_e_Windows_Server.git">Splunk & Windows Server</a>
+        - 🛑 <a href="https://github.com/Gigidotexe/Remediation_e_Mitigation.git">Remediation & Mitigation</a>
+</pre>
