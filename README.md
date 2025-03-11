@@ -15,7 +15,7 @@
 <pre>
 Epicode:
     🎯 Fundamentals
-        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Networking.git">Fundamentals of Ethical Hacking Networking</a>
+        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_acking_Networking">Fundamentals of Ethical Hacking Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
         - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Fundamentals of Ethical Hacking Operating System</a>
 
