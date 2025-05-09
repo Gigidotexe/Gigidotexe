@@ -11,9 +11,9 @@
 <h3>🎓Epicode:</h3>
 <pre>
  🛠️ Fundamentals
-        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_acking_Networking">Fundamentals of Ethical Hacking Networking</a>
-        - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Fundamentals of Ethical Hacking Programming Languages</a>
-        - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Fundamentals of Ethical Hacking Operating System</a>
+        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_acking_Networking">Networking</a>
+        - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Programming Languages</a>
+        - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Operating System</a>
  🔥 Penetration Test
         - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
         - 🏹 <a href="https://github.com/Gigidotexe/PT_The_Exploit_phase.git">The Exploit Phase</a>
