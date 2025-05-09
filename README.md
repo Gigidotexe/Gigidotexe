@@ -11,7 +11,7 @@
 <h3>🎓Epicode:</h3>
 <pre>
  🛠️ Fundamentals
-        - 📡 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_acking_Networking">Networking</a>
+        - 📡 <a href="https://github.com/Gigidotexe/Networking">Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Programming Languages</a>
         - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Operating System</a>
  🔥 Penetration Test
