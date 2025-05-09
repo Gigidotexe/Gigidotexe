@@ -12,8 +12,8 @@
 <pre>
  🛠️ Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Networking">Networking</a>
-        - 💻 <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Programming_Languages.git">Programming Languages</a>
-        - 🛠️ <a href="https://github.com/Gigidotexe/Fundamentals_of_Ethical_Hacking_Operating_System.git">Operating System</a>
+        - 💻 <a href="https://github.com/Gigidotexe/Programming_Languages.git">Programming Languages</a>
+        - 🛠️ <a href="https://github.com/Gigidotexe/Operating_System.git">Operating System</a>
  🔥 Penetration Test
         - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
         - 🏹 <a href="https://github.com/Gigidotexe/PT_The_Exploit_phase.git">The Exploit Phase</a>
