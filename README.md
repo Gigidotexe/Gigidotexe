@@ -13,13 +13,13 @@
  🛠️ Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Networking">Networking</a>
         - 💻 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Programming Languages</a>
-        - 🛠️ <a href="https://github.com/Gigidotexe/Operating_System.git">Operating System</a>
+        - 🛠️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Operating System</a>
  🔥 Penetration Test
-        - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
-        - 🏹 <a href="https://github.com/Gigidotexe/PT_The_Exploit_phase.git">The Exploit Phase</a>
-        - 📌 <a href="https://github.com/Gigidotexe/PT_with_Metasploit.git">Pentesting with Metasploit</a>
+        - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">From Info Gathering to Vulnerability Assessment</a>
+        - 🏹 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">The Exploit Phase</a>
+        - 📌 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Pentesting with Metasploit</a>
  🛡️ Remediation & Mitigation
-        - 🔬 <a href="https://github.com/Gigidotexe/Fundamentals_of_Malware_Analysis.git">Fundamentals of Malware Analysis</a>
-        - 📊 <a href="https://github.com/Gigidotexe/Splunk_e_Windows_Server.git">Splunk & Windows Server</a>
-        - 🛑 <a href="https://github.com/Gigidotexe/Remediation_e_Mitigation.git">Remediation & Mitigation</a>
+        - 🔬 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Fundamentals of Malware Analysis</a>
+        - 📊 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Splunk & Windows Server</a>
+        - 🛑 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
 </pre>
