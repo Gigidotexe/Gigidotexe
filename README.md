@@ -11,7 +11,7 @@
 <h3>Projects:</h3>
 <pre>
   <img src="img/haunter.png" alt="Haunter icon" width="20px" style="vertical-align: middle; padding-right: 8px;" />
-  <a href="Img/haunter.png" style="font-weight: bold; text-decoration: none; color: #9cdcfe;">
+  <a src="Img/haunter.png" style="font-weight: bold; text-decoration: none; color: #9cdcfe;">
   GHost Hunter
   </a>
 </pre>
