@@ -4,13 +4,13 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <br/>
 
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <pre>
-  <img src="Img/haunter.png" alt="Haunter icon" width="30px" style="padding-bottom:60px;" /><a href="https://github.com/GigidotExe/WIP">GHost Hunter</a>
+  <img src="Img/haunter.png" alt="Haunter icon" width="30px"/><a href="https://github.com/GigidotExe/WIP">GHost Hunter</a>
   
 </pre>
 
