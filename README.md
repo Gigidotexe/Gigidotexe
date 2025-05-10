@@ -10,7 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <pre>
-  <img src="img/haunter.png" alt="Haunter icon" width="20px" style="vertical-align: middle; padding-right: 8px;" />
+  <img src="Img/haunter.png" alt="Haunter icon" width="20px" style="vertical-align: middle; padding-right: 8px;" />
 </pre>
 
 
