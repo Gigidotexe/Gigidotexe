@@ -8,6 +8,8 @@
 <br/>
 
 # 🚀 Easy Access to My Repositories
+<h3>Projects:</h3>
+<img align="left" alt="Haunter" width="30px" style="padding-right:10px;" src="Img/haunter.png" /><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">GHost Hunter</a>
 <h3>🎓Epicode:</h3>
 <pre>
  🛠️ Fundamentals
