@@ -10,6 +10,15 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <pre>
+  <img src="img/haunter.png" alt="Haunter icon" width="20px" style="vertical-align: middle; padding-right: 8px;" />
+  <a href="Img/haunter.png" style="font-weight: bold; text-decoration: none; color: #9cdcfe;">
+  GHost Hunter
+  </a>
+</pre>
+
+
+
+ 
  <img align="left" alt="Haunter" width="30px" style="padding-right:10px;" src="Img/haunter.png" /><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">GHost Hunter</a>
 
 </pre>
