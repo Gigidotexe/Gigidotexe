@@ -10,8 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <pre>
-  <img src="Img/haunter.png" alt="Haunter icon" width="30px" style="vertical-align: middle; margin-right: 8px;" />
-  <a href="https://github.com/GigidotExe/WIP" style="vertical-align: middle; font-weight: bold; text-decoration: none; color: #9cdcfe;">GHost Hunter</a>
+  <img src="Img/haunter.png" alt="Haunter icon" width="30px" style="vertical-align: middle; margin-right: 8px;" /><a href="https://github.com/GigidotExe/WIP" style="vertical-align: middle; font-weight: bold; text-decoration: none; color: #9cdcfe;">GHost Hunter</a>
   
 </pre>
 
