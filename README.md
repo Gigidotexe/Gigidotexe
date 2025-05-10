@@ -23,3 +23,6 @@
         - 📊 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Splunk & Windows Server</a>
         - 🛑 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
 </pre>
+<pre>
+ Esercizi
+</pre>
