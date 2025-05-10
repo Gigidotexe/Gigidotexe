@@ -12,7 +12,7 @@
 <pre>
  🛠️ Fundamentals
         - 📡 <a href="https://github.com/Gigidotexe/Networking">Networking</a>
-        - 💻 <a href="https://github.com/Gigidotexe/Programming_Languages.git](https://github.com/Gigidotexe/WIP/blob/main/README.md)">Programming Languages</a>
+        - 💻 <a href="https://github.com/Gigidotexe/Programming_Languages.git">Programming Languages</a>
         - 🛠️ <a href="https://github.com/Gigidotexe/Operating_System.git">Operating System</a>
  🔥 Penetration Test
         - 🕵️‍♂️ <a href="https://github.com/Gigidotexe/PT_From_the_info_Gathering_to_the_Vulnerability_Assessment.git">From Info Gathering to Vulnerability Assessment</a>
