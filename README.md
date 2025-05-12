@@ -9,7 +9,7 @@
 
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
-<div align="center">
+<p align="center">
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
     <img src="Img/haunter.png" alt="Haunter icon" width="60" />
     <strong>GHost Hunter</strong>
@@ -19,7 +19,7 @@
     <strong>GHost Hunter</strong>
   </a>
   
-</div>
+</p>
 
 <h3>🎓Epicode:</h3>
 <pre>
