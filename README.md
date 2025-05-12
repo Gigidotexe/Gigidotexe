@@ -11,11 +11,12 @@
 <h3>Projects:</h3>
 <p align="center">
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
-    <img src="Img/haunter.png" alt="Haunter icon" width="60" /><br/>
+    <img src="Img/haunter.png" alt="Haunter icon" width="60" />
     <strong>GHost Hunter</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
-    <img src="Img/haunter.png" alt="Haunter icon" width="60" /><br/>
+    <img src="Img/haunter.png" alt="Haunter icon" width="60" />
     <strong>GHost Hunter</strong>
   </a>
   
