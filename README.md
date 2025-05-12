@@ -10,7 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <p>
-  <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
+  <a align="center", href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
     <img src="Img/haunter.png" alt="Haunter icon" width="60" /><br/>
     <strong>GHost Hunter</strong>
   </a>
