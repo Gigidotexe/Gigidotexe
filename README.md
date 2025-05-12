@@ -10,7 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <p>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="Img/haunter.png"/>GHost Hunter
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="Img/haunter.png"/><strong>GHost Hunter</strong>
 </p>
 
 <h3>🎓Epicode:</h3>
