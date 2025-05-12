@@ -14,12 +14,10 @@
     <img src="Img/haunter.png" alt="Haunter icon" width="60" /><br/>
     <strong>GHost Hunter</strong>
   </a>
-  <p align="center">
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">
     <img src="Img/haunter.png" alt="Haunter icon" width="60" /><br/>
     <strong>GHost Hunter</strong>
   </a>
-</p>
 </p>
 
 <h3>🎓Epicode:</h3>
