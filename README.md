@@ -10,7 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <pre>
-    <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" src="Img/haunter.png">Ghost Hunter</p></a></br>
+    <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" src="Img/haunter.png">Ghost Hunter</a></br>
 </pre>
 
 <h3>🎓Epicode:</h3>
