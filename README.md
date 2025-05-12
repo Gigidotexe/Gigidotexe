@@ -9,9 +9,9 @@
 
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
-<div style="display: inline-flex; align-items: center; gap: 8px;">
-  <img src="Img/haunter.png" alt="Haunter icon" width="30px" />
-  <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">GHost Hunter</a>
+<div style="display: flex; align-items: center;">
+  <img src="Img/haunter.png" alt="Haunter icon" width="30" height="30" style="margin-right: 8px;" />
+  <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="line-height: 30px;">GHost Hunter</a>
 </div>
 
 
