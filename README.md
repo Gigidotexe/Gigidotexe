@@ -12,12 +12,12 @@
 <div align="center">
   
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="margin: 0 15px; text-align: center; display: inline-block;">
-    <img src="Img/haunter.png" alt="Haunter icon" width="80"/><br/>
+    <img src="Img/haunter.png" alt="Haunter icon" width="80"/>
     <sub><strong>GHost Hunter</strong></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="margin: 0 15px; text-align: center; display: inline-block;">
-    <img src="Img/haunter.png" alt="Haunter icon" width="80"/><br/>
+    <img src="Img/haunter.png" alt="Haunter icon" width="80"/>
     <sub><strong>GHost Hunter</strong></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
