@@ -11,7 +11,7 @@
 <h3>Projects:</h3>
 <p>
 <!-- ================================================================================================ -->
-    <img align="left" width="30px" style="padding-right:5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</p></a></br>
+    <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" src="Img/haunter.png">Ghost Hunter</p></a></br>
 <!-- ================================================================================================ -->
     <img align="left" width="30px" style="padding-right:5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</p></a></br>
 <!-- ================================================================================================ -->
