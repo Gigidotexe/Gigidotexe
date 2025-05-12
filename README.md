@@ -10,7 +10,7 @@
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
 <p>
-<!-->--------------------------------------------------------------------------------------------</!-->
+<!--Commento-->
     <img align="left" alt="Java" width="40px"; style="padding-right: 5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
 <!-->--------------------------------------------------------------------------------------------</!-->
     <img align="left" alt="Java" width="40px"; style="padding-right: 5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
