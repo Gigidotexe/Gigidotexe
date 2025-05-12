@@ -11,7 +11,7 @@
 <h3>Projects:</h3>
 <pre>
 
-  <img src="Img/haunter.png" alt="Haunter icon" width="30" height="30" style="margin-left: 8px;" />
+  <img src="Img/haunter.png" alt="Haunter icon" width="30" height="30" style="margin-left: 20px;" />
   <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="line-height: 30px;">GHost Hunter</a>
 
 </pre>
