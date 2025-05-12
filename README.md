@@ -9,20 +9,9 @@
 
 # 🚀 Easy Access to My Repositories
 <h3>Projects:</h3>
-<div align="center">
-  
-  <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="align: center; display: inline-block;">
-    <img src="Img/haunter.png" alt="Haunter icon" width="80"/>
-    <sub><strong>GHost Hunter</strong></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md" style="align: center; display: inline-block;">
-    <img src="Img/haunter.png" alt="Haunter icon" width="80"/>
-    <sub><strong>GHost Hunter</strong></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-</div>
+<p>
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="Img/haunter.png"/>
+</p>
 
 <h3>🎓Epicode:</h3>
 <pre>
