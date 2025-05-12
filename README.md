@@ -12,9 +12,9 @@
 <p>
 <!--Commento-->
     <img align="left" alt="Java" width="40px"; style="padding-right: 5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
-<!-->--------------------------------------------------------------------------------------------</!-->
+<!--Commento-->
     <img align="left" alt="Java" width="40px"; style="padding-right: 5px;" src="Img/haunter.png"/><a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
-<!-->--------------------------------------------------------------------------------------------</!-->
+<!--Commento-->
 </p>
 
 <h3>🎓Epicode:</h3>
