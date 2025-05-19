@@ -1,4 +1,4 @@
-##Languages
+## Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -7,7 +7,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
 <br/>
 
-##Easy Access to My Repositories
+## Easy Access to My Repositories
 <h3>Projects</h3>
 <pre>
     <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a></br>
