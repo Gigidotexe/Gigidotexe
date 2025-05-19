@@ -29,5 +29,5 @@
 </pre>
 <pre>
  Esercizi
-    <a href="https://github.com/Gigidotexe/Programming_Languages">Python</a>
+    <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
 </pre>
