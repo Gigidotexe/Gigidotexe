@@ -8,7 +8,7 @@
 <br/>
 
 ## 🚀 Easy Access to My Repositories
-<h3>Projects:</h3>
+<h3>Projects</h3>
 <pre>
     <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a></br>
 </pre>
