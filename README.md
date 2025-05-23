@@ -35,5 +35,5 @@ Esercizi
 
 <pre>
 Progetti
-<a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Progettazione Network</a>
+<a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Progettazione Network</a>
 </pre>
