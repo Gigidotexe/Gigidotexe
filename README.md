@@ -24,8 +24,8 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 <pre>
 Appunti
 🛠️ <a href="https://github.com/Gigidotexe/Foundamentals">Foundamentals</a>
-🔥 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Penetration Test</a>
-🛡️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
+🔥 <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Penetration Test</a>
+🛡️ <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Remediation & Mitigation</a>
 </pre>
 
 <pre>
