@@ -29,7 +29,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 <pre>
  Esercizi
-    <a>Python</a>
+    <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
 </pre>
 
 <pre>
