@@ -21,14 +21,8 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 ## Epicode:
 <pre>
 <a href="https://github.com/Gigidotexe/Foundamentals">🛠️Foundamentals</a>
-🔥 Penetration Test
-    🕵️‍♂️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">From Info Gathering to Vulnerability Assessment</a>
-    🏹 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">The Exploit Phase</a>
-    📌 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Pentesting with Metasploit</a>
-🛡️ Remediation & Mitigation
-    🔬 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Fundamentals of Malware Analysis</a>
-    📊 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Splunk & Windows Server</a>
-    🛑 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
+<a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">🔥 Penetration Test</a>
+🔬 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">🛡️ Remediation & Mitigation</a>
 </pre>
 <pre>
  Esercizi
