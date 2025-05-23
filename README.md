@@ -13,7 +13,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
 <br>
 
-## Projects
+## Tools
 <pre>
     <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
 </pre>
@@ -24,7 +24,13 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 🔥 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Penetration Test</a>
 🛡️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
 </pre>
+
 <pre>
  Esercizi
     <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
+</pre>
+
+<pre>
+ Progetti
+    <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Progettazione Network</a>
 </pre>
