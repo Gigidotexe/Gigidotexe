@@ -17,7 +17,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 ## <a href="https://github.com/Gigidotexe/tools">Tools</a>
 <pre>
-    <a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
+<a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
 </pre>
 
 ## Epicode:
@@ -29,10 +29,10 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 <pre>
  Esercizi
-    <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
+<a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
 </pre>
 
 <pre>
  Progetti
-    <a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Progettazione Network</a>
+<a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Progettazione Network</a>
 </pre>
