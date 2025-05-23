@@ -6,7 +6,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 </div>
 
 <div>
-<h6>💡 Questo spazio è in continua evoluzione, ogni feedback è ben accetto!/h6>
+💡 Questo spazio è in continua evoluzione, ogni feedback è ben accetto!
 </div>
     
 <div>
