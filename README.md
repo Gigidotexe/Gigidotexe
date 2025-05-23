@@ -15,7 +15,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 ## Projects
 <pre>
-    <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a></br>
+    <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Ghost Hunter</a>
 </pre>
 
 ## Epicode:
