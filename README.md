@@ -22,6 +22,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 ## Epicode:
 <pre>
+Appunti
 🛠️ <a href="https://github.com/Gigidotexe/Foundamentals">Foundamentals</a>
 🔥 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Penetration Test</a>
 🛡️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Remediation & Mitigation</a>
