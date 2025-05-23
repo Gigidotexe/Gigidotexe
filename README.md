@@ -29,7 +29,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 <pre>
  Esercizi
-    <img align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/><a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
+    <img align="right" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/><a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
 </pre>
 
 <pre>
