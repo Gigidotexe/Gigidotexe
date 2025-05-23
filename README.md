@@ -15,9 +15,7 @@
 
 <h3>Epicode:</h3>
 <pre>
-🛠️ Fundamentals
-    📡 <a href="https://github.com/Gigidotexe/Networking">Networking</a> <!-- 💻 <a href="https://github.com/Gigidotexe/Programming_Languages">Programming Languages</a> -->
-    🛠️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">Operating System</a>
+<a href="https://github.com/Gigidotexe/Foundamentals">🛠️Foundamentals</a>
 🔥 Penetration Test
     🕵️‍♂️ <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">From Info Gathering to Vulnerability Assessment</a>
     🏹 <a href="https://github.com/Gigidotexe/WIP/blob/main/README.md">The Exploit Phase</a>
