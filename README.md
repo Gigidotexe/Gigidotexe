@@ -18,7 +18,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 
 
-<div style="height: 200px; background-color: red;">contenuto</div>
+<br> <div style="height: 200px; background-color: red;">contenuto</div>
 
 
 
