@@ -20,22 +20,22 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 
 ## ⚙️ Tools
 
-- [Ghost Hunter](https://github.com/Gigidotexe/GHost-Hunter)
-- [Log Analyzer](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
-- [Deauther](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+[Ghost Hunter](https://github.com/Gigidotexe/GHost-Hunter)
+[Log Analyzer](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+[Deauther](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 ---
 
 ## Epicode:
 Appunti
-- 🛠️ [Foundamentals](https://github.com/Gigidotexe/Foundamentals)
-- 🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
-- 🛡️ [Remediation & Mitigation](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+🛠️ [Foundamentals](https://github.com/Gigidotexe/Foundamentals)
+🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+🛡️ [Remediation & Mitigation](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 Esercizi
-- [Esercizi Python](https://github.com/Gigidotexe/EserciziPythonEpicode)
+[Esercizi Python](https://github.com/Gigidotexe/EserciziPythonEpicode)
 
 Progetti
-- [Progettazione Network](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+[Progettazione Network](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 ---
