@@ -15,9 +15,9 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 
 ## Tools
 <pre>
-<a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
-<a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Log Analyzer</a>
-<a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Deauther</a>
+  <a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
+  <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Log Analyzer</a>
+  <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Deauther</a>
 </pre>
 
 ## Epicode:
