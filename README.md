@@ -30,7 +30,9 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 Appunti
 &nbsp;
 🛠️ [Foundamentals](https://github.com/Gigidotexe/Foundamentals)
+
 🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+
 🛡️ [Remediation & Mitigation](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 Esercizi
