@@ -1,8 +1,13 @@
 # 👋 Benvenuti
-Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il penetration testing, la sicurezza delle reti e lo studio delle minacce informatiche. 
-<br> Qua troverai una raccolta organizzata dei miei script e appunti sviluppati durante il mio percorso formativo e i miei studi con corsi specializzati.
-<br> Ti consigllio di guardare anche i <a href="https://github.com/Gigidotexe/tools">tool</a> che ho realizzato per mettermi alla prova.  
-<h6>💡 Questo spazio è in continua evoluzione, ogni feedback è ben accetto!</h6>
+
+Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con una forte passione per il penetration testing, la sicurezza delle reti e l'analisi delle minacce informatiche.
+
+In questo repository troverai una raccolta di script, appunti e progetti sviluppati durante il mio percorso formativo.  
+👉 Dai un'occhiata anche ai [tool](https://github.com/Gigidotexe/tools) che ho realizzato per mettermi alla prova!
+
+> 💡 Questo spazio è in continua evoluzione. Ogni feedback è ben accetto!
+
+---
 
     
 <br> <div>
