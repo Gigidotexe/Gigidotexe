@@ -9,7 +9,6 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 
 ---
 
-    
 <br> <div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -19,13 +18,15 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 </div>
 <br>
 
+---
 
-## Tools
-<pre>
-<a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
-<a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Log Analyzer</a>
-<a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Deauther</a>
-</pre>
+## ⚙️ Tools
+
+- [Ghost Hunter](https://github.com/Gigidotexe/GHost-Hunter)
+- [Log Analyzer](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+- [Deauther](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+
+---
 
 ## Epicode:
 <pre>
@@ -44,3 +45,5 @@ Esercizi
 Progetti
 <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Progettazione Network</a>
 </pre>
+
+---
