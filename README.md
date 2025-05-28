@@ -27,12 +27,10 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 ---
 
 ## Epicode:
-<pre>
 Appunti
-🛠️ <a href="https://github.com/Gigidotexe/Foundamentals">Foundamentals</a>
-🔥 <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Penetration Test</a>
-🛡️ <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Remediation & Mitigation</a>
-</pre>
+- 🛠️ [Foundamentals](https://github.com/Gigidotexe/Foundamentals)
+- 🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
+- 🛡️ [Remediation & Mitigation](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 <pre>
 Esercizi
