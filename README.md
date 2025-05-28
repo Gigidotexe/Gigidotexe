@@ -32,14 +32,10 @@ Appunti
 - 🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 - 🛡️ [Remediation & Mitigation](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
-<pre>
 Esercizi
-<a href="https://github.com/Gigidotexe/EserciziPythonEpicode">Python</a>
-</pre>
+- [Esercizi Python](https://github.com/Gigidotexe/EserciziPythonEpicode)
 
-<pre>
 Progetti
-<a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Progettazione Network</a>
-</pre>
+- [Progettazione Network](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
 
 ---
