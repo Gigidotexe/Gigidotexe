@@ -19,7 +19,7 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 ---
 
 ## ⚙️ Tools
-&nbsp;
+
 [Ghost Hunter](https://github.com/Gigidotexe/GHost-Hunter)
 
 [Log Analyzer](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
@@ -31,7 +31,6 @@ In questo repository troverai una raccolta di script, appunti e progetti svilupp
 ## Epicode:
 Appunti
 
-&nbsp;
 🛠️ [Foundamentals](https://github.com/Gigidotexe/Foundamentals)
 
 🔥 [Penetration Test](https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg)
