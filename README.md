@@ -37,3 +37,8 @@ Esercizi
 Progetti
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Progettazione Network</a>
 </pre>
+
+##eJPT Certification
+<pre>
+  <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Junior Penetration Tester notes</a>
+</pre>
