@@ -40,5 +40,5 @@ Progetti
 
 ## eJPT Certification
 <pre>
-  <a href="https://github.com/Gigidotexe/Penetration_Test_notes">Junior Penetration Tester notes</a>
+  <a href="https://github.com/Gigidotexe/Penetration_Test_notes/blob/main/README.md">Junior Penetration Tester notes</a>
 </pre>
