@@ -21,7 +21,17 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Deauther</a>
 </pre>
 
-## Epicode:
+## eJPT Certification notes
+<pre>
+  <a href="https://github.com/Gigidotexe/Penetration_Test_notes/blob/main/README.md">Junior Penetration Tester notes</a>
+</pre>
+
+## AWS Cloud Practitioner notes
+<pre>
+  <a href="https://github.com/Gigidotexe/AWS-Cloud-Practitioner-notes/blob/main/README.md">Notes</a>
+</pre>
+
+## Epicode
 <pre>
 Appunti
   <a href="https://github.com/Gigidotexe/Foundamentals">Foundamentals</a>
@@ -37,14 +47,4 @@ Esercizi
 <pre>
 Progetti
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Progettazione Network</a>
-</pre>
-
-## eJPT Certification notes
-<pre>
-  <a href="https://github.com/Gigidotexe/Penetration_Test_notes/blob/main/README.md">Junior Penetration Tester notes</a>
-</pre>
-
-## AWS Cloud Practitioner
-<pre>
-  <a href="https://github.com/Gigidotexe/AWS-Cloud-Practitioner-notes/blob/main/README.md">Notes</a>
 </pre>
