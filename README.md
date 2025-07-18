@@ -20,16 +20,19 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Log Analyzer</a>
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Deauther</a>
 </pre>
+<br>
 
 ## eJPT Certification notes
 <pre>
   <a href="https://github.com/Gigidotexe/Penetration_Test_notes/blob/main/README.md">Junior Penetration Tester notes</a>
 </pre>
+<br>
 
 ## AWS Cloud Practitioner notes
 <pre>
   <a href="https://github.com/Gigidotexe/AWS-Cloud-Practitioner-notes/blob/main/README.md">Notes</a>
 </pre>
+<br>
 
 ## Epicode CyberSecurity Specialist
 <pre>
