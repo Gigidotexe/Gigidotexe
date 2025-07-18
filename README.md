@@ -45,5 +45,5 @@ Progetti
 
 ## AWS Cloud Practitioner
 <pre>
-  <a href="">Notes</a>
+  <a href="https://github.com/Gigidotexe/AWS-Cloud-Practitioner-notes/blob/main/README.md">Notes</a>
 </pre>
