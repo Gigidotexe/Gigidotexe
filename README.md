@@ -42,3 +42,8 @@ Progetti
 <pre>
   <a href="https://github.com/Gigidotexe/Penetration_Test_notes/blob/main/README.md">Junior Penetration Tester notes</a>
 </pre>
+
+## AWS Cloud Practitioner
+<pre>
+  <a href="">Notes</a>
+</pre>
