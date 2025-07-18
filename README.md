@@ -31,7 +31,7 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
   <a href="https://github.com/Gigidotexe/AWS-Cloud-Practitioner-notes/blob/main/README.md">Notes</a>
 </pre>
 
-## Epicode
+## Epicode CyberSecurity Specialist
 <pre>
 Appunti
   <a href="https://github.com/Gigidotexe/Foundamentals">Foundamentals</a>
