@@ -14,6 +14,8 @@ Ciao! Sono Gigi, un Jr. Cybersecurity Specialist con un forte interesse per il p
 </div>
 <br>
 
+---
+
 ## Tools
 <pre>
   <a href="https://github.com/Gigidotexe/GHost-Hunter">Ghost Hunter</a>
@@ -51,3 +53,6 @@ Esercizi
 Progetti
   <a href="https://github.com/Gigidotexe/Gigidotexe/blob/main/Img/WIP.jpg">Progettazione Network</a>
 </pre>
+
+---
+
